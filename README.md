@@ -5,7 +5,7 @@ int main()
 {
 int arr[10], i, num, index;
 cout << "Enter 20 Numbers: ";
-for (i = 0; i < 10; i++)
+for (i = 0; i < 20; i++)
 cin >> arr[i];
 cout << "Enter a Number to Search: ";
 cin >> num;
