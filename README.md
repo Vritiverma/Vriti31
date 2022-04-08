@@ -9,7 +9,7 @@ for (i = 0; i < 20; i++)
 cin >> arr[i];
 cout << "Enter a Number to Search: ";
 cin >> num;
-for (i = 0; i < 10; i++)
+for (i = 0; i < 20; i++)
 {
 if (arr[i] == num)
 {
